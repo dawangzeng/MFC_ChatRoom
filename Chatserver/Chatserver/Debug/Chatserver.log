@@ -1,0 +1,23 @@
+﻿生成启动时间为 2018/7/7 10:53:41。
+     1>项目“I:\vs2015编程\Chatserver\Chatserver\Chatserver.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         I:\软件\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\Chatserver.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Chatserver.cpp ChatserverDlg.cpp ClientSocket.cpp ListenSocket.cpp
+         ClientSocket.cpp
+         ChatserverDlg.cpp
+         正在生成代码...
+         正在跳过...(未检测到相关更改)
+         ListenSocket.cpp
+         Chatserver.cpp
+       Link:
+         I:\软件\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"I:\vs2015编程\Chatserver\Debug\Chatserver.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"I:\软件\VC\Include\Manifest\dpiaware.manifest" /Debug /PDB:"I:\vs2015编程\Chatserver\Debug\Chatserver.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"I:\vs2015编程\Chatserver\Debug\Chatserver.lib" /MACHINE:X86 Debug\Chatserver.res
+         Debug\Chatserver.obj
+         Debug\ChatserverDlg.obj
+         Debug\ClientSocket.obj
+         Debug\ListenSocket.obj
+         Debug\stdafx.obj
+         Chatserver.vcxproj -> I:\vs2015编程\Chatserver\Debug\Chatserver.exe
+     1>已完成生成项目“I:\vs2015编程\Chatserver\Chatserver\Chatserver.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:11.47
