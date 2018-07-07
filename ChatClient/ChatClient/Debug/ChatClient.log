@@ -1,0 +1,14 @@
+﻿生成启动时间为 2018/7/7 11:07:35。
+     1>项目“I:\vs2015编程\ChatClient\ChatClient\ChatClient.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         I:\软件\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"I:\vs2015编程\ChatClient\Debug\ChatClient.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"I:\软件\VC\Include\Manifest\dpiaware.manifest" /Debug /PDB:"I:\vs2015编程\ChatClient\Debug\ChatClient.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"I:\vs2015编程\ChatClient\Debug\ChatClient.lib" /MACHINE:X86 Debug\ChatClient.res
+         Debug\ChatClient.obj
+         Debug\ChatClientDlg.obj
+         Debug\ClientSocket.obj
+         Debug\stdafx.obj
+         ChatClient.vcxproj -> I:\vs2015编程\ChatClient\Debug\ChatClient.exe
+     1>已完成生成项目“I:\vs2015编程\ChatClient\ChatClient\ChatClient.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:04.74
